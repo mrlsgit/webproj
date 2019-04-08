@@ -1,0 +1,10 @@
+.header{
+  margin:30;
+}
+.header .logo{
+  background-image:url()
+}
+.header > p{
+  text-align: center;
+  font-size:3em;
+}
